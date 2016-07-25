@@ -1,11 +1,11 @@
 import React, { PropTypes } from 'react';
 
-const Component = ({ name }) => (
+const Hello = ({ name }) => (
     <h1>Hello {name}!</h1>
 );
 
-Component.propTypes = {
+Hello.propTypes = {
     name: PropTypes.string.isRequired,
 };
 
-export default Component;
+export default Hello;

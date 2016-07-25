@@ -1,11 +1,11 @@
 import React from 'react';
-import Component from '../src/Main'; // This is our component
+import Hello from '../src/Main'; // This is our component
 import { storiesOf } from '@kadira/storybook';
 
-storiesOf('Component', module)
+storiesOf('Hello', module)
     .add('with lyef name', () => (
-        <Component name="lyef" />
+        <Hello name="lyef" />
     ))
     .add('with another name', () => (
-        <Component name="another" />
+        <Hello name="another" />
     ))
