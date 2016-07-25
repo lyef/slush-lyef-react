@@ -1,6 +1,6 @@
 # Slush Lyef-react [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-lyef-react.png)](http://badges.enytc.com/for/npm/slush-lyef-react)
 
-> A slush generator to create isolated and decoupled react componentes with es6. To understante more about the structure and philosofy, please take a look at the [generated structure here](https://github.com/lyef/lyef-react-component/).
+> A slush generator to create isolated and decoupled react componentes with es6. To understand more about the structure and philosophy, please take a look at the [generated structure here](https://github.com/lyef/lyef-react-component/).
 
 ## Getting Started
 
