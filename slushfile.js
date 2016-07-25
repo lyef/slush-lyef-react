@@ -53,14 +53,14 @@ var defaults = (function () {
 gulp.task('default', function (done) {
     var prompts = [{
         name: 'appName',
-        message: 'What is the name of your project?',
+        message: 'What is the name of your component?',
         default: defaults.appName
     }, {
         name: 'appDescription',
         message: 'What is the description?'
     }, {
         name: 'appVersion',
-        message: 'What is the version of your project?',
+        message: 'What is the version of your component?',
         default: '0.1.0'
     }, {
         name: 'authorName',
