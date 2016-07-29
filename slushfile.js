@@ -78,6 +78,8 @@ gulp.task('default', function (done) {
                 return done();
             }
             answers.appNameSlug = _.slugify(answers.appName);
+            answers.appNameCamel = _.camelize(answers.appName);
+            answers.appNameHumanized = _.humanize(answers.appName);
             gulp.src(__dirname + '/component/**')
                 .pipe(template(answers))
                 .pipe(rename(function (file) {
