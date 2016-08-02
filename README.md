@@ -2,6 +2,8 @@
 
 > A slush generator to create isolated and decoupled react componentes with es6. To understand more about the structure and philosophy, please take a look at the [generated structure here](https://github.com/lyef/lyef-react-component/).
 
+![Terminal running Slush](slush-image.gif)
+
 ## Getting Started
 
 Install `slush-lyef-react` globally:
