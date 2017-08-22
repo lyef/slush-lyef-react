@@ -1,7 +1,7 @@
 {
     "name": "slush-lyef-react",
     "description": "A slush generator to create isolated and decoupled react componentes with es6.",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "homepage": "https://github.com/lyef/slush-lyef-react",
     "author": {
         "name": "lyef",
